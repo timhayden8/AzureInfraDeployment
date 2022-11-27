@@ -1,3 +1,3 @@
 RGNAME,SUBNETNAME,SUBNETRANGE,VNETNAME,VNETRANGE,VMNAME,VMSIZE,disksize,username,password
-test7,test7-subnet,10.0.0.0/24,test7-vnet,10.0.0.0/16,test7,Standard_DS1_v2,128,anchornetwork,Thetimehasc0me1!
+test7,test7-subnet,10.0.0.0/24,test7-vnet,10.0.0.0/16,test7,Standard_DS1_v2,128,anchornetwork,SamplePassword
 ,,,,,test8fs,Standard_DS1_v2,128,,
