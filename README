@@ -1,0 +1,1 @@
+This script will connect to your azure AD tenant, then deploy a Resource group, VNET, Subnet, and multiple VMs based on input into a CSV file. 
